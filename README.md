@@ -12,6 +12,4 @@
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine learning, EDA, Статистический анализ
 
 ##### Контакты:
-
 [Telegram](https://t.me/irantonova_v) 
-[Email](irantonovairen@yandex.ru)
