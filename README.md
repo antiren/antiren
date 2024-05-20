@@ -1,16 +1,17 @@
-### Hi there 👋
+### Меня зовут Ирина Антонова, я начинающий data-scientist.
 
-<!--
-**antiren/antiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+В марте 2024 закончила обучение в Яндекс Практикуме по программе Data Science Bootcamp.
+За время учебы выполнила 16 проектов от базового python до обучения нейронных сетей. 
 
-Here are some ideas to get you started:
+Рассматриваю варианты стажировок и предложения о работе.
+Стремлюсь попасть в команду опытных специалистов, которые готовы делиться своими знаниями.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [Портфолио](https://github.com/antiren/Portfolio)
+
+##### Стеки: 
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine learning, EDA, Статистический анализ
+
+##### Контакты:
+
+[Telegram](https://t.me/irantonova_v) 
+[Email](irantonovairen@yandex.ru)
